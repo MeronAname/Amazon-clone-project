@@ -1,0 +1,107 @@
+/* .category {
+    height: 260px;
+    width: 270px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  .category img {
+    width: 100%;
+    object-fit: contain;
+    max-height: 150px;
+    padding: 0px 0px;
+  }
+  .category a {
+    text-decoration: none;
+    color: rgb(35, 35, 35);
+  }
+  
+  .category h2 {
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+    
+  }
+  .category h2,
+  .category p {
+    padding: 5px;
+    margin-left: 15px;
+  }
+  .category p {
+    font-size: 12px;
+    font-weight: bold;
+    color: rgb(9, 132, 209);
+  }
+  .category__container {
+    position: relative;
+    margin-top: -10%;
+    Padding-bottom: 5px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    grid-template-columns: repeat(4, 1fr);
+    /* max-width: 10px;  */
+    /* gap: 10px;
+    /* margin-right: auto;
+    margin-left: auto; */
+    /* place-items: center;
+  }
+  /* .category__container { */
+    /* overflow: scroll;
+  }
+  .category__container::-webkit-scrollbar {
+    display: none;
+  } */ 
+   
+
+
+  .category {
+    height: 260px;
+    width: 270px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  .category img {
+    width: 100%;
+    object-fit: contain;
+    max-height: 150px;
+    padding: 0px 0px;
+  }
+  .category a {
+    text-decoration: none;
+    color: rgb(35, 35, 35);
+  }
+  
+  .category h2 {
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+    
+  }
+  .category h2,
+  .category p {
+    padding: 5px;
+    margin-left: 15px;
+  }
+  .category p {
+    font-size: 12px;
+    font-weight: bold;
+    color: rgb(9, 132, 209);
+  }
+  .category__container {
+    position: relative;
+    margin-top: -10%;
+    Padding-bottom: 5px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    
+    max-width: 1600px; 
+    gap: 50px;
+    /* margin-right: auto;
+    margin-left: auto; */
+    place-items: center;
+  }
+  .category__container {
+    overflow: scroll;
+  }
+  .category__container::-webkit-scrollbar {
+    display: none;
+  }
