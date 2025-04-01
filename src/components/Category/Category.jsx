@@ -3,6 +3,8 @@ import { categoryInfos } from "./catagoryfullnfos"; // Renamed to categoryInfos 
 import CategoryCard from './CategoryCard';
 import classes from './Catagory.module.css'
 function Category() {
+  console.log(categoryInfos);
+  
   return (
     <section className={classes.category__container}>
       {
